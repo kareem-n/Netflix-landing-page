@@ -2,7 +2,7 @@
   "name": "temp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kareem-n.github.io/Netflix-landing-page",
+  "homepage": "https://kareem-n.github.io/netflix-landing-page",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
     "@testing-library/jest-dom": "^5.16.5",
