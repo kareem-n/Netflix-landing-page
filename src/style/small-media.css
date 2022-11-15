@@ -1,0 +1,75 @@
+/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .hero {
+    height: 75vh;
+    background-size: cover;
+  }
+
+  .hero .svg-icon-netflix-logo {
+    width: 6rem !important;
+  }
+
+  .hero-card .main-title {
+    font-size: 1.7rem;
+  }
+
+  .hero-card .inner h3 {
+    max-width: 300px;
+    margin: auto;
+    font-size: 1rem;
+  }
+
+  .hero-card .inner h2 {
+    font-size: 1.1rem;
+  }
+
+  .hero-card .inner {
+    padding: 0 15px;
+  }
+
+  .form-floating {
+    width: 90%;
+  }
+
+  .form-floating input {
+    width: 100%;
+  }
+
+  .ques .lead {
+    padding: 0 55px;
+  }
+
+  .form-floating button {
+    border-radius: 5px;
+    position: static;
+    width: auto;
+    margin: auto;
+    font-size: 1rem;
+    margin-top: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+
+  .box-shot {
+    width: 90%;
+    bottom: 7%;
+  }
+  .box-shot img {
+    width: 35px;
+  }
+
+  .ques ul {
+    max-width: 90%;
+  }
+
+  .ques ul li .title h2,
+  .ques ul li .title i {
+    font-size: 20px;
+  }
+
+  .ques h2{
+    font-size: 30px;
+  }
+}
